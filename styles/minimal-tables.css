@@ -38,3 +38,7 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
+tr td.lecture {     /*add, selector의 priority를 높여야 한다.*/
+  background-color: rgb(191, 248, 248);
+}
