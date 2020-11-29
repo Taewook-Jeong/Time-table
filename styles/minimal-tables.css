@@ -1,13 +1,17 @@
- 
-html {
+ html {
   font-family: sans-serif;
 }
 
+h1 {
+  text-align: center; /*add*/
+}
 table {
   border-collapse: collapse;
   border: 2px solid rgb(200,200,200);
   letter-spacing: 1px;
   font-size: 0.8rem;
+  width: 60%;
+  margin: auto; /*add*/
 }
 
 td, th {
