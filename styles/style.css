@@ -1,0 +1,27 @@
+html {
+    font-family: sans-serif;
+}
+body {
+    background-image: url(../images/bonobono.jpg);
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+}
+a:link {
+    color: skyblue;
+}
+a:visited {
+    color: aquamarine;
+}
+a:hover {
+    color: hotpink;
+}
+
+background-image: url(balloons.jpg);
+background-image: url(balloons.jpg);
